@@ -1,10 +1,6 @@
-# Merve Eser
+[![Hi, I'm Merve](https://img.shields.io/badge/Hi%2C%20I'm%20Merve-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merveser)
 
-Turning data into direction.  
-With a background in mathematics and hands-on experience in analytics, I aim to bring clarity and impact through data-driven solutions.
-
-- 🎓 B.Sc. in Mathematics, Hacettepe University
-- 💼 Former Data Analytics Intern at Trive (9 months)
+As a graduate of Hacettepe University’s Department of Mathematics, I developed a strong analytical mindset. At Trive, as a Data Analytics intern, I turned complex datasets into clear, decision-ready dashboards and reports. Now, I’m focused on crafting hands-on data analysis projects that transform real-world information into meaningful insights and predictions. My aim is to bridge the gap between raw data and strategic action, one project at a time.
 
 ##  Technical Skills
 
@@ -35,22 +31,5 @@ With a background in mathematics and hands-on experience in analytics, I aim to 
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=merveser&theme=github_dark)
 
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=merveser&theme=github_dark)
 
 
-
-
-<!--
-**merveser/merveser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
