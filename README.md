@@ -29,12 +29,13 @@ With a background in mathematics and hands-on experience in analytics, I aim to 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 
 ---
+## 📊 GitHub Profile Stats
 
-## 📈 GitHub Stats
+![Merve's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=merveser&theme=github_dark)
 
-![Merve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merveser&show_icons=true&theme=default)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=merveser&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merveser&layout=compact)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=merveser&theme=github_dark)
 
 
 
