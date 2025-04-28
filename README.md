@@ -1,4 +1,7 @@
-html<br><p align="center"><img src="greeting1.png" alt="Hi, I'm Merve" width="300"/></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi,%20I'm%20Merve-softpink?style=for-the-badge&logoColor=white&color=ffb6c1" alt="Hi, I'm Merve">
+</p>
+
 
 As a graduate of Hacettepe University’s Department of Mathematics, I developed a strong analytical mindset. At Trive, as a Data Analytics intern, I turned complex datasets into clear, decision-ready dashboards and reports. Now, I’m focused on crafting hands-on data analysis projects that transform real-world information into meaningful insights and predictions. My aim is to bridge the gap between raw data and strategic action, one project at a time.
 
