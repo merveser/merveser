@@ -6,19 +6,36 @@ With a background in mathematics and hands-on experience in analytics, I aim to 
 - 🎓 B.Sc. in Mathematics, Hacettepe University
 - 💼 Former Data Analytics Intern at Trive (9 months)
 
-## 🛠 Technical Skills
+##  Technical Skills
 
-**Programming & Libraries**  
-Python · pandas · NumPy · scikit-learn · matplotlib
+### Programming & Libraries
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
 
-**Data Visualization**  
-Tableau · matplotlib
+### Data Visualization
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
-**Databases & Querying**  
-SQL
+### Databases & Querying
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
-**Tools & Environment**  
-Git · Jupyter Notebook · VS Code · Anaconda
+### Tools & Environment
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Merve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merveser&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merveser&layout=compact)
+
 
 
 
