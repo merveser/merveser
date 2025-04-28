@@ -1,4 +1,26 @@
-## Hi there 👋
+# Merve Eser
+
+Turning data into direction.  
+With a background in mathematics and hands-on experience in analytics, I aim to bring clarity and impact through data-driven solutions.
+
+- 🎓 B.Sc. in Mathematics, Hacettepe University
+- 💼 Former Data Analytics Intern at Trive (9 months)
+
+## 🛠 Technical Skills
+
+**Programming & Libraries**  
+Python · pandas · NumPy · scikit-learn · matplotlib
+
+**Data Visualization**  
+Tableau · matplotlib
+
+**Databases & Querying**  
+SQL
+
+**Tools & Environment**  
+Git · Jupyter Notebook · VS Code · Anaconda
+
+
 
 <!--
 **merveser/merveser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
