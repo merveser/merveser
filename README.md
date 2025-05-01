@@ -1,7 +1,7 @@
 <h2 align="center" style="color:#AED9E0; font-family:Georgia, serif;">Hi, I'm Merve 👩🏻‍💻</h2>
 
 
-As a graduate of Hacettepe University’s Department of Mathematics, I developed a strong analytical mindset. At Trive, as a Data Analytics intern, I turned complex datasets into clear, decision-ready dashboards and reports. Now, I’m focused on crafting hands-on data analysis projects that transform real-world information into meaningful insights and predictions. My aim is to bridge the gap between raw data and strategic action, one project at a time.
+As a Mathematics graduate, I developed a strong analytical mindset. At Trive, as a Data Analytics intern, I turned complex datasets into clear, decision-ready dashboards and reports. Now, I’m focused on crafting hands-on data analysis projects that transform real-world information into meaningful insights and predictions. My aim is to bridge the gap between raw data and strategic action, one project at a time.
 
 ## Technical Skills
 
